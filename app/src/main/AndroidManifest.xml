@@ -16,6 +16,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".DiagnoseActivity" />
+        <activity android:name=".PendingTreatmentActivity" />
+        <activity android:name=".VetListingActivity" />
+        <activity android:name=".QADiagnoseActivity" />
+        <activity android:name=".PhotoDiagnoseActivity" />
+        <activity android:name=".DiagnosesResultActivity" />
+        <activity android:name=".VetProfileActivity"></activity>
     </application>
 
 </manifest>
