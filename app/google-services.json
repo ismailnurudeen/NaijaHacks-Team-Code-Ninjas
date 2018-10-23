@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "732495521908",
+    "firebase_url": "https://vetfinder-422e5.firebaseio.com",
+    "project_id": "vetfinder-422e5",
+    "storage_bucket": "vetfinder-422e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732495521908:android:d95f3061aec58c9d",
+        "android_client_info": {
+          "package_name": "tech.codeninjas.vetfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732495521908-mep8hahis3nhtje4svca7besr3clo5vh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tech.codeninjas.vetfinder",
+            "certificate_hash": "c1369d43114aca9beef0b04825fd504fa6efed3e"
+          }
+        },
+        {
+          "client_id": "732495521908-2cob7mpj886rsfagnqraf1729up2sjp1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRqleBHN-rZwYV2aW7jCudaX3rLObuBiw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732495521908-2cob7mpj886rsfagnqraf1729up2sjp1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

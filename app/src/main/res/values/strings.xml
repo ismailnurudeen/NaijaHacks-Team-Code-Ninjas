@@ -1,3 +1,114 @@
 <resources>
     <string name="app_name">VetFinder</string>
+    <string name="title_activity_settings">Settings</string>
+    <string-array name="animal_type">
+        <item>Cow</item>
+        <item>Goat</item>
+        <item>Sheep</item>
+        <item>Pig</item>
+    </string-array>
+    <string-array name="diagnose_steps">
+        <item>animal</item>
+        <item>symptoms</item>
+        <item>other signs</item>
+        <item>Diagnose</item>
+    </string-array>
+
+<!--Disease-->
+    <string name="food_mouth_disease">Food and Mouth Disease</string>
+    <string name="rift_valley_disease">Rift Valley Fever</string>
+    <string name="black_leg_disease">Black Leg Disease</string>
+    <string name="blue_tongue_disease">Blue Tongue Disease</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="cow">Cow</string>
+    <string name="goat">Goat</string>
+    <string name="sheep">Sheep</string>
+    <string name="pig">Pig</string>
+    <string name="which_of_the_following_symptoms_have_you_noticed_select_all_that_applies">Which of the following symptoms have you noticed? (Select all that applies)</string>
+    <string name="fever">Fever</string>
+    <string name="bilsters_in_the_mouth_and_feet">Bilsters in the mouth and feet</string>
+    <string name="weight_loss">Weight loss</string>
+    <string name="loss_of_appetite">Loss of Appetite</string>
+    <string name="drop_in_milk_production">Drop in milk production</string>
+    <string name="lameness">Lameness</string>
+    <string name="weakness">Weakness</string>
+    <string name="abortion">Abortion</string>
+    <string name="rapid_breathing">Rapid breathing</string>
+    <string name="has_it_affected_other_animals">Has it affected other animals?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="not_sure">Not Sure</string>
+    <string name="has_any_amimal_died_recently">Has any amimal died recently?</string>
+    <string name="diagnose">Diagnose</string>
 </resources>
